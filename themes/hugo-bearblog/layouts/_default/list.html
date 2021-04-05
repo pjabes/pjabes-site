@@ -8,16 +8,9 @@
   {{ end }}
   <ul class="blog-posts">
     {{ range .Pages }}
-    <li>
-      <span>
-        <i>
-          <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
-            {{ .Date.Format "02 Jan, 2006" }}
-          </time>
-        </i>
-      </span>
+    <ul>
       <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
+    </ul>
     {{ else }}
     <li>
       No posts yet
@@ -28,9 +21,6 @@
   {{else}}
     <small>
       <div>
-        {{ range .Site.Taxonomies.tags }}
-        <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
-        {{ end }}
       </div>
     </small>
     {{ end }}
