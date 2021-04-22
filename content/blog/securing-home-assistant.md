@@ -4,6 +4,7 @@ author:
 date: 2019-08-21
 linktitle: securing home assistant
 title: securing home assistant
+draft: true
 ---
 A working draft of some things that I have done for my home assistant installation. 
 
