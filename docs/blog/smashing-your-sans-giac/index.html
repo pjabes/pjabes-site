@@ -1,0 +1,305 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title> Smashing Your SANS Course - Patrick Abraham </title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="referrer" content="no-referrer">
+    <meta name="description" content="" />
+    <meta property="og:site_name" content="Patrick Abraham" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://pabes.me/blog/smashing-your-sans-giac/" />
+    <meta property="og:title" content="Smashing Your SANS Course" />
+    <meta property="og:image" content="https://pabes.me/image/avatar.jpg" />
+    <meta property="og:description" content="" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    
+    <meta name="twitter:site" content="@pjabes">
+    <meta name="twitter:creator" content="@pjabes">
+    
+    <meta name="twitter:title" content="Smashing Your SANS Course" />
+    <meta name="twitter:description" content="" />
+    <meta name="twitter:image" content="https://pabes.me/image/avatar.jpg" />
+
+    <link rel="canonical" href="https://pabes.me/blog/smashing-your-sans-giac/">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
+
+    <link rel="stylesheet" href="https://nanx-assets.netlify.app/fonts.css" />
+
+    <link rel="stylesheet" href="https://pabes.me/css/custom.css" />
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github-gist.min.css" integrity="sha512-od7JLoOTxM8w/HSKGzP9Kexc20K9p/M2zxSWsd7H1e4Ctf+8SQFtCWEZnW5u6ul5ehSECa5QmOk9ju2nQMmlVA==" crossorigin="anonymous" />
+    
+
+    
+
+    <link rel="shortcut icon"
+        href="https://pabes.me/image/favicon.png">
+
+    
+    <link href="https://pabes.me/index.xml" rel="alternate" type="application/rss+xml" title="Patrick Abraham" />
+    
+</head>
+
+<body>
+    
+    <div class="my-4 my-lg-5 header">
+    <div class="container">
+        <div class="row">
+            <div class="col-auto offset-lg-2 d-none d-lg-block">
+                
+                    <a href="https://pabes.me/">
+                        <img class="ml-lg-4 logo img-fluid d-block rounded-circle" src="https://pabes.me/image/avatar.jpg" alt="logo">
+                    </a>
+                
+            </div>
+            <div class="col-auto align-self-center mr-auto">
+                <a href="https://pabes.me/">
+                    <h1 class="name">Patrick Abraham</h1>
+                </a>
+
+                <ul class="nav nav-primary">
+                    
+                        <li class="nav-item">
+                            <a class="nav-link text-about" href="https://pabes.me/about/">
+                                
+                                About
+                            </a>
+                        </li>
+                    
+                        <li class="nav-item">
+                            <a class="nav-link text-blog" href="https://pabes.me/blog/">
+                                
+                                Blog
+                            </a>
+                        </li>
+                    
+                        <li class="nav-item">
+                            <a class="nav-link text-contact" href="https://pabes.me/contact/">
+                                
+                                Contact
+                            </a>
+                        </li>
+                    
+
+                    
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <div class="content">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-sm-12 col-lg-8">
+                    <h1 class="mx-0 mx-md-4 blog-post-title">Smashing Your SANS Course</h1>
+
+                    <div class="mb-md-4 meta">
+                        
+                            
+                                <span class="author" title="map[name:Patrick Abraham]">
+                                    map[name:Patrick Abraham]
+                                </span>
+                            
+                        
+
+                        <span class="date middot" title='Wed Aug 21 2019 00:00:00 UTC'>
+                            2019-08-21
+                        </span>
+
+                        <span class="reading-time middot">
+                            4 min read
+                        </span>
+
+                        <div class="d-none d-md-inline tags">
+                            <ul class="list-unstyled d-inline">
+                                
+                                    <li class="d-inline middot">
+                                        <a href="https://pabes.me/tags/markdown">markdown</a>
+                                    </li>
+                                
+                                    <li class="d-inline middot">
+                                        <a href="https://pabes.me/tags/syntax">syntax</a>
+                                    </li>
+                                
+                            </ul>
+                        </div>
+
+                        <div class="d-none d-md-inline tags">
+                            <ul class="list-unstyled d-inline">
+                                
+                                
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="markdown blog-post-content">
+                        
+    <h2 id="introduction">Introduction</h2>
+<p>If you&rsquo;re reading this post, you likely know of the SANS course and associated GIAC certification.  You&rsquo;re likely about to sit your course and/or exam and are looking for some tips and tricks to maximise the amount of value you get out of this eye-wateringly expensive course.  This post is an overview of the tips and tricks that I have for smashing your SANS GIAC experience.</p>
+<p>At time of writing, I&rsquo;ve been lucky enough to undertake <a href="https://www.sans.org/cyber-security-courses/advanced-incident-response-threat-hunting-training/">FOR508: Advanced Incident Response, Threat Hunting, and Digital Forensics</a> and <a href="https://www.sans.org/cyber-security-courses/continuous-monitoring-security-operations/">SEC511: Continuous Monitoring and Security Operations</a> and successfully pass both associated exams to become GCFA and GMON certified.</p>
+<blockquote>
+<p><em>Disclaimer - as per the agreements signed during the course.  I will <strong>not</strong> be sharing any notes/exam questions or material from these exams.  Please do not ask!  Also you should definitely do your research about any of the guidelines I provide about notes, timings, etc.  As with many courses these are subject to change at a moments notice.</em></p>
+</blockquote>
+<hr>
+<h2 id="table-of-contents">Table of Contents</h2>
+<hr>
+<h3 id="learn-to-learn">Learn to Learn</h3>
+<p>SANS courses are well known for their difficulty which often comes in part by their length and breadth of content.  Instructor led courses are typically 5 or 6 days in duration for which most students will require an additional month or two to study outside of class to pass the GIAC exam.  Realising this, before my first SANs course I undertook a short course in learning how to learn.  The idea behind this was I wanted to maximise <strong>effective</strong> studying whilst minimising <strong>ineffective</strong> studying.  It&rsquo;s hard to provide a quantitative measure about how successful this was but I do feel it helped reinforce good habits.</p>
+<p>I used Coursera&rsquo;s free <a href="https://www.coursera.org/learn/learning-how-to-learn">Learning How to Learn</a> to be useful not only for SANS but for life.  If you haven&rsquo;t got the 15 hours to dedicate you can always read a TL;DR such as <a href="https://medium.com/learn-love-code/learnings-from-learning-how-to-learn-19d149920dc4">this</a> one that should give you some orientation.</p>
+<hr>
+<h3 id="carve-time-and-what-to-bring">Carve Time and What to Bring</h3>
+<ul>
+<li>The fast pace of these courses should mean you don&rsquo;t want to be wasting time fiddling around.  This can be tricky w/ SecOps as many of us find ourselves &ldquo;always on&rdquo;.<br>
+[] Where possible, complete pre-work such as setting up the labs.<br>
+[] Setup your environment to be distraction free, this means letting your boss/colleagues/etc know that during these times you are not available.
+[]</li>
+</ul>
+<hr>
+<h3 id="during---taking-notes">During - Taking Notes:</h3>
+<p>I found the most effective note taking method was taking writing within the margins of the</p>
+<h3 id="during-creating-an-index">During: Creating an Index</h3>
+<p>GIAC Exams are open-book, meaning you may bring in any desired <em>hardcopy</em> notes and references<a href="https://www.giac.org/exams/preparation">1</a>.  As such, it&rsquo;s highly recommended that you bring an index in for the hardcopy notes.  This index will allow you to reference different sections much faster than if you were manually trudging through the pages one by one.  Despite what others may say, I really do not believe there to be a definitive &ldquo;best-way&rdquo; for index creation, so I&rsquo;d pick something like thi</p>
+<ul>
+<li>First and foremost - figure out what works for you and what does not.  During the research phase of my SANS and GIAC experience I found a variety of blog posts (listed below) that outline their way for building the index, some sounded prescriptive whilst others just provided guidelines.  Do something that works for you (and I&rsquo;ll provide some tips later about how to evaluate this).</li>
+<li></li>
+</ul>
+<p>During my prearation experience I read from a number of difference sources which each took slightly different ways, but having undertaken two exams I&rsquo;d recommend just playing around with it during the practice exams.  Figure out what works for you and what does not, for example, I found it incredibly more useful to separate tools from the index and if there was ever a question on tools I would reference that section as a quicker lookup.  I also found it incredibly useful to colour code and divide sections with a title preface.  For example, if a section was to to be talking about the different types of accounts I would broadly leverage the information provided.</p>
+<p>Additionally, I&rsquo;d recommend attaching a cheatsheet at the end with things that you know you are weak with.  For me, I leveraged parts of <a href="https://github.com/chrisjd20/Blue-Team-Cheat-Sheets/">chrisjd20&rsquo;s blue team cheatsheet</a></p>
+<hr>
+<p>I&rsquo;d also recommend incorporating a bunch of other references within the cheatsheet, things like a quick lookup for port numbers</p>
+<p><a href="https://github.com/chrisjd20/Blue-Team-Cheat-Sheets/">https://github.com/chrisjd20/Blue-Team-Cheat-Sheets/</a></p>
+<h4 id="other-references">Other References:</h4>
+<ul>
+<li><a href="https://br0nw3n.com/2018/10/making-a-giac-exam-index/">Making a GIAC Exam Index</a></li>
+</ul>
+<h3 id="tip-3-add-your-own-referencesnote">Tip 3: Add your own references/note</h3>
+<p>Testing policy dictates that are</p>
+<h3 id="references">References</h3>
+<h2 id="tldr">TL;DR</h2>
+<p>[1] - <a href="https://www.giac.org/exams/preparation">https://www.giac.org/exams/preparation</a></p>
+
+
+
+                    </div>
+
+                    
+                        <div class="navigation">
+                            <div class="row">
+                                <div class="col-12 col-lg-6">
+                                    
+                                        <div class="mx-0 mx-md-4 mt-4 text-left">
+                                            <a href="https://pabes.me/blog/soaring-by-the-seat-of-your-pants/">« SOARing by the seat of your pants</a>
+                                        </div>
+                                    
+                                </div>
+                                <div class="col-12 col-lg-6">
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section id="comments">
+    <div class="py-3 content">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-sm-12 col-lg-8">
+                    <div class="comments">
+                        <script src="https://utteranc.es/client.js" repo=""
+                            issue-term="pathname" label="comment" theme="github-light" crossorigin="anonymous" async>
+                            </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+    <div class="my-4 footer">
+    <div class="container">
+
+        <div class="row justify-content-center">
+            <div class="col-sm-12 col-lg-8">
+                <hr>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-sm-12 col-lg-2">
+                
+                <div class="mx-0 mx-md-4 site-copyright">
+                    © 2021 Patrick Abraham
+                </div>
+                
+            </div>
+            <div class="col-sm-12 col-lg-6">
+                <div class="mx-0 mx-md-4 site-social">
+                    <ul>
+                        
+
+                        
+                        <li><a href="https://github.com/pjabes" target="_blank">GitHub</a></li>
+                        
+
+                        
+
+                        
+
+                        
+                        <li><a href="https://twitter.com/pjabes" target="_blank">Twitter</a></li>
+                        
+
+                        
+                        <li><a href="https://www.linkedin.com/in/pjabes"
+                                target="_blank">LinkedIn</a></li>
+                        
+
+                        
+                        <li><a href="https://pabes.me/index.xml" class="mr-0">RSS</a></li>
+                        
+
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    
+
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script>
+            window.addEventListener('load', function() {
+                hljs.initHighlighting();
+            }, true);
+        </script>
+    
+
+    
+
+    
+    
+        
+
+    
+</body>
+
+</html>
