@@ -1,42 +1,46 @@
-baseURL = "https://pabes.me"
-
-# The name of this wonderful theme ;-).
-theme = 'hugo-bearblog'
-
-# Basic metadata configuration for your blog.
-title = "pabes"
+baseurl = "https://pabes.me/"
+title = "Patrick Abraham"
 author = "Patrick Abraham"
-copyright = "©"
-languageCode = "en-US"
+canonifyurls = true
+languagecode = "en"
+paginate = 3
+theme = "hugo-renga"
 
-publishDir = "docs"
+enableEmoji = true
+hasCJKLanguage = true
 
-# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
-disableKinds = ["taxonomy"]
-ignoreErrors = ["error-disable-taxonomy"]
-[permalinks]
-  blog = "/:slug/"
-  tags = "/blog/:slug"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  # The "description" of your website. This is used in the meta data of your generated html.
-  description = "Random thoughts on detection and automation and other neat things in infosec"
+pagetitle = "Patrick Abraham"
+copyright = "© 2021 Patrick Abraham"
+copyrightUrl = "https://pabes.me/"
+faviconfile = "image/favicon.png"
+logofile = "image/avatar.jpg"
+posts_navigation = true
+uselatex = true
+highlightjs = true
+progressively = false
 
-  # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
-  # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
-  favicon = "/favicon.ico"
+github = "pjabes"
+twitter = "pjabes"
+linkedin = "pjabes"
+email = "example@example.com"
 
-  # These "images" are used for the structured data templates. This will show up, when
-  # services like Twitter or Slack want to generate a preview of a link to your site.
-  # See https://gohugo.io/templates/internal#twitter-cards and
-  # https://gohugo.io/templates/internal#open-graph.
-  images = ["images/share.png"]
+[[menu.primary]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
 
-  # Another "title" :-). This one is used as the site_name on the Hugo's internal
-  # opengraph structured data template.
-  # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-  title = "pabes.me"
+[[menu.primary]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+weight = 2
 
-  # This theme will, by default, inject a made-with-line at the bottom of the page.
-  # You can turn it off, but we would really appreciate if you don’t :-).
-  hideMadeWithLine = true
+[[menu.primary]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 3

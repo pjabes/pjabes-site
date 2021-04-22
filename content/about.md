@@ -1,5 +1,5 @@
 ---
-title: "About Patrick"
+title: "About Me"
 date: "2014-04-09"
 menu: "main"
 description: "About description."
