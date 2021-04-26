@@ -6,7 +6,7 @@
     <description>Recent content on Patrick Abraham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pabes.me/index.xml" rel="self" type="application/rss+xml" />
     
@@ -32,35 +32,26 @@ This blog post provides some (no marketting) recommendations on how you can real
     </item>
     
     <item>
-      <title>thought-provoking career thoughts</title>
+      <title>Contact</title>
+      <link>https://pabes.me/contact/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pabes.me/contact/</guid>
+      <description>Please feel free to reach out to me on any of the below platforms.
+ Twitter LinkedIn GitHub  Finally, my PGP key is accessible here.</description>
+    </item>
+    
+    <item>
+      <title>Bibliography of career thoughts</title>
       <link>https://pabes.me/blog/career-advice-bibliography/</link>
-      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pabes.me/blog/career-advice-bibliography/</guid>
-      <description>An assortment of career-related posts that I found to be thought-provoking (but I should note that I do not necessarily agree with all of these).
-  You are not an employee, you are a business.
+      <description>An assortment of career-related posts that have been challenging or thought provoking in one way or another. Many of these posts are a bit whack but may help you think critically about your career.
+   You are not an employee, you are a business.
 It&amp;rsquo;s not personal; it&amp;rsquo;s business.
   How to waste your career, one comfortable year at a time
 Apoorva (apoorvagovind) provides a framework for evaluating when we are being complacent and the realisation of the true cost of this.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://pabes.me/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://pabes.me/about/</guid>
-      <description>Lorem ipsum dolor sit amet, ex has sale ullum corrumpit, sea dicam nostrum sensibus ad. Porro tritani persecuti te sed. Omittam dissentias pro ex. Atqui luptatum duo id. Eros minim eam ex, novum elitr accusam quo in. Nec ne audire euripidis, mea qualisque consetetur cu. Suspendisse volutpat sem a risus euismod convallis.
-In modus congue feugait eos. In nec nonumy volutpat corrumpit, sea assentior quaerendum no, cum affert scripta ea. No nihil voluptaria pro.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://pabes.me/contact/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://pabes.me/contact/</guid>
-      <description>PGP Key goes here</description>
     </item>
     
   </channel>
