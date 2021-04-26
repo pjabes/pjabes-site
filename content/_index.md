@@ -1,4 +1,11 @@
-Patrick is an information security professional with a keen interest in finding and responding to adversaries.  Equipped with a strong engineering background, Patrick has a track record of developing Detection and Automation use-cases for financial instiutions across the APAC region.
+---
+date: "2021-04-21"
+menu: "main"
+description: "Contacting Patrick Abraham"
+---
 
-Want to get in contact?  Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/pabes/).  
+### About Me 
 
+Patrick is an information security professional with a keen interest in finding and responding to adversaries.  Equipped with a strong engineering background, Patrick has a track record of developing Detection and Automation use-cases.
+
+Want to get in [contact](../contact)?  

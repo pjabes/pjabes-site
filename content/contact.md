@@ -1,8 +1,13 @@
 ---
 title: "Contact"
-date: "2014-04-09"
+date: "2021-04-21"
 menu: "main"
-description: "Contact description."
+description: "Contacting Patrick Abraham"
 ---
+Please feel free to reach out to me on any of the below platforms.
 
-PGP Key goes here 
+* [Twitter](https://twitter.com/pjabes2)
+* [LinkedIn](https://www.linkedin.com/in/pabes/)
+* [GitHub](https://github.com/pjabes/)
+
+Finally, my PGP key is accessible [here](../patrick-pub.asc).

@@ -1,12 +1,14 @@
 ---
-author:
-  name: "Patrick Abraham"
-date: 2019-08-21
-linktitle: Thought-provoking career thoughts
-title: thought-provoking career thoughts
-weight: 10
+author: Patrick Abraham
+date: 0000-00-00
+linktitle: career-advice-bibliography
+title: Bibliography of career thoughts
 ---
-An assortment of career-related posts that I found to be thought-provoking (but I should note that I do not necessarily agree with all of these).
+
+An assortment of career-related posts that have been challenging or thought provoking in one way or another.  Many of these posts are a bit whack but may help you think critically about your career.
+
+-----
+
 
 * *[You are not an employee, you are a business](https://twitter.com/csallen/status/1331367429843214338).*  
 It's not personal; it's business.  
@@ -20,10 +22,11 @@ Apoorva ([apoorvagovind](https://apoorvagovind.substack.com/p/how-to-waste-your-
 * *[Stage of company, not name of company](https://theskip.substack.com/p/stage-of-company-not-name-of-company)*   
 TheSkip ([@theskip](https://theskip.substack.com)) contend that it is not the name of the company that matters for overall job satisfaction, but also the stage of the comapny (product fit, hypergrowth, scale, etc).
 
-* *[Personal Board of Directors](https://www.sciencemag.org/careers/2020/03/personal-board-directors-can-help-you-navigate-challenges-your-career)* It's difficult to attribute who came up with this, but I feel that this could be a transformative approach to careers. 
+* *[Personal Board of Directors](https://www.sciencemag.org/careers/2020/03/personal-board-directors-can-help-you-navigate-challenges-your-career)*  
+ It's difficult to attribute who came up with this, but I feel that this could be a transformative approach to careers. 
 
 
-* *[What you should know before taking your gap year](https://offlinemark.com/2021/03/06/what-you-should-know-before-taking-your-gap-year/)*  
+* *[What you should know before taking your gap year](https://offlinemark.com/2021/03/06/what-you-should-know-before-taking-your-gap-year/)*    
 Mark ([@offlinemark](https://twitter.com/offlinemark)) has done a great job articulating the risks and opportunities undertaking a gap year during your career as well as outlining strategies to make a gap year effective.    
 
 * *[How to find a job after consulting](https://medium.com/@lelandchar/how-to-guide-on-finding-a-job-after-management-consulting-a-mckinsey-alumni-perspective-25449cc13f6d)*  
