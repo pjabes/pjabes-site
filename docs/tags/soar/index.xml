@@ -17,7 +17,8 @@
       <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://pabes.me/blog/soaring-by-the-seat-of-your-pants/</guid>
-      <description>SOARing by the seat of your pants There&amp;rsquo;s a lot of hype with Security Orchestration, Automation and Response (SOAR) and on paper it basically sells itself. A product that improves Time To Respond (TTR) metrics whilst decreasing FTE count is a CISO&amp;rsquo;s wet dream. But unfortunately, many orgs find it difficult to realise value with their SOAR products and in a way are soaring by the seat of their pants.</description>
+      <description>Many Security Operation Centres will assume that playbook development could (or should) solely be completed by security analysts. While it is difficult to narrow down exactly where this comes from; I suspect it comes from vendor&amp;rsquo;s marketing the ease of use of their solutions and the inclusion of WYSIWYG and drag and drop editors.
+Whilst it is possible for security analysts to create functioning instances of playbooks many SOCs will encounter difficulties scaling this approach and thus hindering the value realisation of the products.</description>
     </item>
     
   </channel>
