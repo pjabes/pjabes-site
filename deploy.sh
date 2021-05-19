@@ -20,7 +20,7 @@ echo "pabes.me" > CNAME
 git add .
 
 # Commit changes.
-msg="rebuilding site $(date)"
+msg="Deploying Copy"
 if [ -n "$*" ]; then
 	msg="$*"
 fi

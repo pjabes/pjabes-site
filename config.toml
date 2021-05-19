@@ -24,9 +24,8 @@ highlightjs = true
 progressively = false
 
 github = "pjabes"
-twitter = "pjabes"
-linkedin = "pjabes"
-email = "example@example.com"
+twitter = "pjabes2"
+linkedin = "pabes"
 
 [[menu.primary]]
 identifier = "blog"
