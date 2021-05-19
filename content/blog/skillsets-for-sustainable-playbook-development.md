@@ -4,6 +4,7 @@ date: 2019-08-21
 linktitle: Skills for your SOAR team to succeed
 title: Skills for your SOAR team to succeed
 weight: 10
+description: "This post provides suggestions on the various skillsets required for fast value realisation on a SOAR platform."
 tags:
 - "#100DaysToOffload"
 - SOAR
