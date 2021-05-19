@@ -1,6 +1,6 @@
 ---
 author: Patrick Abraham
-date: 0000-00-00
+date: 2020-09-01
 linktitle: career-advice-bibliography
 title: Bibliography of career thoughts
 ---

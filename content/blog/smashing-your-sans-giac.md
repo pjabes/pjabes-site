@@ -1,18 +1,12 @@
 ---
-author:
-  name: "Patrick Abraham"
+author: "Patrick Abraham"
 date: 2019-08-21
 linktitle: smashing-your-sans-giac 
 title: Smashing Your SANS Course
-weight: 10
-tags: [
-    "markdown",
-    "syntax",
-]
+tags: 
+- training
 ---
-
-## Introduction
-If you're reading this post, you likely know of the SANS course and associated GIAC certification.  You're likely about to sit your course and/or exam and are looking for some tips and tricks to maximise the amount of value you get out of this eye-wateringly expensive course.  This post is an overview of the tips and tricks that I have for smashing your SANS GIAC experience. 
+If you're reading this post, you likely know of the SANS course and associated GIAC certification.  You're likely about to sit your course and/or exam and are looking for some tips and tricks to maximise the amount of value you get out of this eye-wateringly expensive course.  This post is an overview of the tips and tricks that I have for smashing your SANS GIAC experience that I didn't really read in other places.
 
 At time of writing, I've been lucky enough to undertake [FOR508: Advanced Incident Response, Threat Hunting, and Digital Forensics](https://www.sans.org/cyber-security-courses/advanced-incident-response-threat-hunting-training/) and [SEC511: Continuous Monitoring and Security Operations](https://www.sans.org/cyber-security-courses/continuous-monitoring-security-operations/) and successfully pass both associated exams to become GCFA and GMON certified.
 
@@ -20,11 +14,6 @@ At time of writing, I've been lucky enough to undertake [FOR508: Advanced Incide
 
 ---
 
-## Table of Contents
-
-
-
----
 
 ### Learn to Learn
 SANS courses are well known for their difficulty which often comes in part by their length and breadth of content.  Instructor led courses are typically 5 or 6 days in duration for which most students will require an additional month or two to study outside of class to pass the GIAC exam.  Realising this, before my first SANs course I undertook a short course in learning how to learn.  The idea behind this was I wanted to maximise **effective** studying whilst minimising **ineffective** studying.  It's hard to provide a quantitative measure about how successful this was but I do feel it helped reinforce good habits.

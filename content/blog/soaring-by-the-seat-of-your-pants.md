@@ -1,47 +1,29 @@
 ---
-author:
-  name: "Patrick Abraham"
+author: "Patrick Abraham"
 date: 2019-08-21
-linktitle: SOARing by the seat of your pants 
-title: SOARing by the seat of your pants
+linktitle: Skills for your SOAR team to succeed
+title: Skills for your SOAR team to succeed
 weight: 10
+tags:
+- "#100DaysToOffload"
+- SOAR
 ---
+Many Security Operation Centres will assume that playbook development could (or should) solely be completed by security analysts.  While it is difficult to narrow down exactly where this comes from; I suspect it comes from vendor's marketing the ease of use of their solutions and the inclusion of WYSIWYG and drag and drop editors. 
 
-There's a lot of hype with Security Orchestration, Automation and Response (SOAR) and on paper it basically sells itself.  A product that improves Time To Respond (TTR) metrics whilst decreasing FTE count is a CISO's wet dream.  But unfortunately, many orgs find it difficult to realise value with their SOAR products and in a way are ***soaring by the seat of their pants***. 
+Whilst it is possible for security analysts to create functioning instances of playbooks many SOCs will encounter difficulties scaling this approach and thus hindering the value realisation of the products.   SOAR Playbooks are better related to "devops software products" than security scripts and once one considers the amount of engineering rigour and talent that goes behind managing testing, technical debt, support and user experience it becomes clear why SOC analysts should not be solely in charge of playbook development.  Adding the rigour and talent required to develop scalable playbooks will result in the very thing that SOAR aims to reduce; SOC fatigue. 
 
-This blog post provides some (no marketting) recommendations on how you can realise the most value from your SOAR investment. 
+If I was to be building the dream team, I'd be looking for the following skills:
+* *SOC Analysts Skills* - SOC Analysts need to be involved throughout the playbook development phase and act as SMEs for these software products. Without active participation, it is likely that the resultant products will be misaligned with the end users.  
 
-----------------
-### Building the right team 
-Many SOCs will assume that playbooks can wholely be written by SOC analysts, but in my experience, many SOCs will have difficulties scaling this approach as bad software engineering practices and technical debt consume work products.  If I was building a team, I'd be looking for the following skills
+* *Software Engineering Skills* - These people bring the engineering know-how on building production-ready code.  Involving them early in the project will save headaches down the track by ensuring that the framework to build playbooks is architectually sound and scalable. 
 
-* SOC skills.  Not really a shock, but SOC analysts should be involved throughout the playbook development phase and act as an SME.  
+* *Business Analysts (Process Improvers)* - Remembering that doing an inefficient process quickly is still inefficient, it may be worth involving a business analyst to undertake some process optimisation and seeking the most "bang for buck" in playbook candidate selection, etc.  
 
-* Software Engineering.  These people bring the engineering know-how on building production-ready code.  Involving them early in the project will save headaches down the track by ensuring that the framework to build playbooks is architectually sound and scalable. 
-
-* process improvement/consulting skills - remembering that doing an inefficient process quickly is still inefficient, it may be worth involving a business analyst to undertake some process optimisation and seeking the most "bang for buck" in playbook candidate selection, etc.  
-
-Finding an individual that poses all of the skills can be difficult (see: expensive).  So get creative - perhaps you can partner with the business to borrow some software engineers on a short term basis.  
-
--------
-
-### WIP - More to come!
-
-## Playbook Selection
+Finding individuals that poses all of the skills can be difficult (see: expensive).  So get creative - perhaps you could partner with the business to second resources or look to leverage people aiming to make a transition into security. 
 
 
-## Setting Standards and Guardrails
+------
+### SOARing by the seat of your pants
+There's a lot of hype with Security Orchestration, Automation and Response (SOAR) and on paper it basically sells itself.  A product that improves Time To Respond (TTR), decreases FTE count and improves job satisfaction is a CISO's wet dream.  But unfortunately, many orgs find it difficult to realise value with their SOAR products and in a way are **soaring by the seat of their pants**. 
 
-### Benefits
-* Codification of standards is difficult to enforce, and can be time consuming to deploy at scale. Guardrails can be incorporated 
-* Applications (developed by third parties or not) may require some guardrails to function better. For instance, the Phantom Splunk App will default any search to real-time. This is problematic for a number of reasons.
-
-## Use-cases
-|Use Case|Description|
-|------|------|
-|Playbook Name Conventions|Enforces strict naming convention of playbooks to differentiate between 'master playbooks' and 'utility playbooks'.
-|Action Name Conventions|Enforces strict naming conventions of actions.|
-|All Time Search Guardrail|"run query" of Splunk's Phantom App will default to an all-time search unless the SPL contains "@earliest" and "@latest".|
-
----
-[1] - Reference for 
+This [microblog series](https://pabes.me/tags/soar/) provides some actionable thoughts about how you could enable faster value realisation with your investment.

@@ -1,6 +1,5 @@
 ---
-author:
-name: "Patrick Abraham"
+author: "Patrick Abraham"
 date: 2019-08-21
 linktitle: securing home assistant
 title: securing home assistant
