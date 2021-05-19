@@ -1,8 +1,8 @@
 ---
 author: "Patrick Abraham"
 date: 2019-08-21
-linktitle: securing home assistant
-title: securing home assistant
+linktitle: atc-react for response capability coverage
+title: atc-react for response capability coverage
 draft: true
 ---
 A working draft of some things that I have done for my home assistant installation. 
