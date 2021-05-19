@@ -1,5 +1,5 @@
 baseurl = "https://pabes.me/"
-title = "Patrick Abraham"
+title = "pabes.me"
 author = "Patrick Abraham"
 canonifyurls = true
 languagecode = "en"
@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 publishDir = "docs"
 
 [params]
-pagetitle = "Patrick Abraham"
+pagetitle = "pabes"
 copyright = "© 2021 Patrick Abraham"
 copyrightUrl = "https://pabes.me/"
 faviconfile = "image/favicon.png"
