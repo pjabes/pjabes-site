@@ -13,10 +13,10 @@
     
     <item>
       <title>Skills for your SOAR team to succeed</title>
-      <link>https://pabes.me/blog/soaring-by-the-seat-of-your-pants/</link>
+      <link>https://pabes.me/blog/skillsets-for-sustainable-playbook-development/</link>
       <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pabes.me/blog/soaring-by-the-seat-of-your-pants/</guid>
+      <guid>https://pabes.me/blog/skillsets-for-sustainable-playbook-development/</guid>
       <description>Many Security Operation Centres will assume that playbook development could (or should) solely be completed by security analysts. While it is difficult to narrow down exactly where this comes from; I suspect it comes from vendor&amp;rsquo;s marketing the ease of use of their solutions and the inclusion of WYSIWYG and drag and drop editors.
 Whilst it is possible for security analysts to create functioning instances of playbooks many SOCs will encounter difficulties scaling this approach and thus hindering the value realisation of the products.</description>
     </item>
