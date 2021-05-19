@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Patrick Abraham</title>
+    <title>Tags on pabes.me</title>
     <link>https://pabes.me/tags/</link>
-    <description>Recent content in Tags on Patrick Abraham</description>
+    <description>Recent content in Tags on pabes.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>markdown</title>
-      <link>https://pabes.me/tags/markdown/</link>
-      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pabes.me/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SOAR</title>
       <link>https://pabes.me/tags/soar/</link>
       <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
@@ -39,11 +30,11 @@
     </item>
     
     <item>
-      <title>syntax</title>
-      <link>https://pabes.me/tags/syntax/</link>
+      <title>training</title>
+      <link>https://pabes.me/tags/training/</link>
       <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pabes.me/tags/syntax/</guid>
+      <guid>https://pabes.me/tags/training/</guid>
       <description></description>
     </item>
     

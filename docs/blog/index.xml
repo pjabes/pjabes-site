@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Patrick Abraham</title>
+    <title>Blogs on pabes.me</title>
     <link>https://pabes.me/blog/</link>
-    <description>Recent content in Blogs on Patrick Abraham</description>
+    <description>Recent content in Blogs on pabes.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
@@ -22,16 +22,6 @@ Whilst it is possible for security analysts to create functioning instances of p
     </item>
     
     <item>
-      <title>Smashing Your SANS Course</title>
-      <link>https://pabes.me/blog/smashing-your-sans-giac/</link>
-      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pabes.me/blog/smashing-your-sans-giac/</guid>
-      <description>Introduction If you&amp;rsquo;re reading this post, you likely know of the SANS course and associated GIAC certification. You&amp;rsquo;re likely about to sit your course and/or exam and are looking for some tips and tricks to maximise the amount of value you get out of this eye-wateringly expensive course. This post is an overview of the tips and tricks that I have for smashing your SANS GIAC experience.
-At time of writing, I&amp;rsquo;ve been lucky enough to undertake FOR508: Advanced Incident Response, Threat Hunting, and Digital Forensics and SEC511: Continuous Monitoring and Security Operations and successfully pass both associated exams to become GCFA and GMON certified.</description>
-    </item>
-    
-    <item>
       <title>Bibliography of career thoughts</title>
       <link>https://pabes.me/blog/career-advice-bibliography/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
@@ -42,6 +32,15 @@ At time of writing, I&amp;rsquo;ve been lucky enough to undertake FOR508: Advanc
 It&amp;rsquo;s not personal; it&amp;rsquo;s business.
   How to waste your career, one comfortable year at a time
 Apoorva (apoorvagovind) provides a framework for evaluating when we are being complacent and the realisation of the true cost of this.</description>
+    </item>
+    
+    <item>
+      <title>Smashing Your SANS Course</title>
+      <link>https://pabes.me/blog/smashing-your-sans-giac/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pabes.me/blog/smashing-your-sans-giac/</guid>
+      <description>If you&amp;rsquo;re reading this post, you likely know of the SANS course and associated GIAC certification. You&amp;rsquo;re likely about to sit your course and/or exam and are looking for some tips and tricks to maximise the amount of value you get out of this eye-wateringly expensive course. This post is an overview of the tips and tricks that I have for smashing your SANS GIAC experience that I didn&amp;rsquo;t really read in other places.</description>
     </item>
     
   </channel>
