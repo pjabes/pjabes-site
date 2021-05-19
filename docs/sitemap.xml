@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pabes.me/blog/smashing-your-sans-giac/</loc>
+    <loc>https://pabes.me/blog/soaring-by-the-seat-of-your-pants/</loc>
     <lastmod>2019-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pabes.me/blog/soaring-by-the-seat-of-your-pants/</loc>
+    <loc>https://pabes.me/blog/smashing-your-sans-giac/</loc>
     <lastmod>2019-08-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -24,11 +24,26 @@
   
   <url>
     <loc>https://pabes.me/blog/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pabes.me/blog/career-advice-bibliography/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pabes.me/tags/#100daystooffload/</loc>
     <lastmod>2019-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pabes.me/tags/markdown/</loc>
+    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pabes.me/tags/soar/</loc>
     <lastmod>2019-08-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -40,10 +55,6 @@
   <url>
     <loc>https://pabes.me/tags/</loc>
     <lastmod>2019-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pabes.me/blog/career-advice-bibliography/</loc>
   </url>
   
   <url>

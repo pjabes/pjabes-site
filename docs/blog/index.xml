@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Patrick Abraham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pabes.me/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Skills for your SOAR team to succeed</title>
+      <link>https://pabes.me/blog/soaring-by-the-seat-of-your-pants/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pabes.me/blog/soaring-by-the-seat-of-your-pants/</guid>
+      <description>SOARing by the seat of your pants There&amp;rsquo;s a lot of hype with Security Orchestration, Automation and Response (SOAR) and on paper it basically sells itself. A product that improves Time To Respond (TTR) metrics whilst decreasing FTE count is a CISO&amp;rsquo;s wet dream. But unfortunately, many orgs find it difficult to realise value with their SOAR products and in a way are soaring by the seat of their pants.</description>
+    </item>
     
     <item>
       <title>Smashing Your SANS Course</title>
@@ -22,19 +31,9 @@ At time of writing, I&amp;rsquo;ve been lucky enough to undertake FOR508: Advanc
     </item>
     
     <item>
-      <title>SOARing by the seat of your pants</title>
-      <link>https://pabes.me/blog/soaring-by-the-seat-of-your-pants/</link>
-      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pabes.me/blog/soaring-by-the-seat-of-your-pants/</guid>
-      <description>There&amp;rsquo;s a lot of hype with Security Orchestration, Automation and Response (SOAR) and on paper it basically sells itself. A product that improves Time To Respond (TTR) metrics whilst decreasing FTE count is a CISO&amp;rsquo;s wet dream. But unfortunately, many orgs find it difficult to realise value with their SOAR products and in a way are soaring by the seat of their pants.
-This blog post provides some (no marketting) recommendations on how you can realise the most value from your SOAR investment.</description>
-    </item>
-    
-    <item>
       <title>Bibliography of career thoughts</title>
       <link>https://pabes.me/blog/career-advice-bibliography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://pabes.me/blog/career-advice-bibliography/</guid>
       <description>An assortment of career-related posts that have been challenging or thought provoking in one way or another. Many of these posts are a bit whack but may help you think critically about your career.
