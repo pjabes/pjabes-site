@@ -3,7 +3,7 @@ author: "Patrick Abraham"
 date: 2019-08-21
 linktitle: smashing-your-sans-giac 
 title: Smashing Your SANS Course
-description: "This post describes some tips for smashing your SANS course"
+description: "This post describes some tips for smashing your SANS course" 
 tags: 
 - training
 ---
